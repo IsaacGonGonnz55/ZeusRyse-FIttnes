@@ -98,5 +98,6 @@ frontend/ios/Runner/GoogleService-Info.plist
 *.bak
 *.backup
 *.old
+*.tmp
 
 
